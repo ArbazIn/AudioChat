@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Closerr</string>
+
+
+    <string name="whoisarbaaz">who is arbaaz</string>
+    <string name="who_is_arbaz"><i>According to wikipedia Arbaaz IS Android Developer And Also Developed This Application</i></string>
+
+    <string name="connect">connect</string>
+    <string name="connect_with">Here You Go</string>
+
+
+    <string name="bye">bye</string>
+    <string name="bye_take_care"> Okay Bye Take Care! :)</string>
+
+    <string name="play_music">play music</string>
+    <string name="play_music_here">Sure </string>
+
+
+    <string name="fromtheweb">from the web</string>
+    <string name="from_the_web">From The Web</string>
+
+</resources>
